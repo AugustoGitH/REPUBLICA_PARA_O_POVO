@@ -12,6 +12,32 @@ O ponto de partida é um personagem criado pelo jogador, com identidade, trajet�
 
 A ambição é que uma vitória eleitoral leve ao exercício do mandato na mesma partida. Governo, instituições e políticas públicas são uma etapa posterior do desenvolvimento.
 
+## Galeria
+
+### Identidade visual
+
+Brasília em pixel art, criada para o cenário de fundo da tela inicial.
+
+![Cenário de Brasília em pixel art](media/brasilia.png)
+
+### Estudos de interface
+
+As imagens abaixo são **referências conceituais** para o desenvolvimento: apresentam ideias visuais e de experiência, não capturas da versão atual do jogo. Detalhes e funcionalidades podem mudar.
+
+<details>
+<summary>Campanha política — conceito de painel</summary>
+
+![Estudo visual para o painel de campanha](media/conceito-campanha.png)
+
+</details>
+
+<details>
+<summary>Criação de personagem — conceito de interface</summary>
+
+![Estudo visual para a criação de personagem](media/conceito-personagem.png)
+
+</details>
+
 ## O que já foi construído
 
 Com base nos registros de implementação atualizados até **30 de outubro de 2026**:
