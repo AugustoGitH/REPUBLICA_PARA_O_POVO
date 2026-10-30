@@ -60,3 +60,7 @@ A inteligência artificial é concebida como apoio narrativo e de interpretaçã
 ---
 
 Este repositório é uma apresentação pública em preparação. Código, demonstrações, materiais e informações de colaboração poderão ser adicionados conforme forem disponibilizados.
+
+## Licença
+
+O conteúdo deste repositório está sob a [CC BY-NC-ND 4.0](LICENSE).
