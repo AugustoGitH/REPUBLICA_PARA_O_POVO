@@ -20,6 +20,30 @@ Captura do protótipo em execução.
 
 ![Tela inicial do República](media/tela-inicial.png)
 
+### Personagens
+
+Biblioteca e editor de personagens, incluindo o protótipo visual para debates e a configuração de ideologia.
+
+![Biblioteca e editor de personagens](media/personagens.png)
+
+![Configuração de ideologia e visão](media/ideologia.png)
+
+### Nova partida
+
+Escolha do modo e revisão da configuração antes de iniciar.
+
+![Escolha do modo de jogo](media/modo-de-jogo.png)
+
+![Revisão da partida e adversários](media/revisao-partida.png)
+
+### Introdução
+
+Cenas de abertura e transição para a partida.
+
+![Cena da introdução](media/introducao.png)
+
+![Tela de início da partida](media/inicio-partida.png)
+
 ### Identidade visual
 
 Brasília em pixel art, criada para o cenário de fundo da tela inicial.
