@@ -14,6 +14,12 @@ A ambição é que uma vitória eleitoral leve ao exercício do mandato na mesma
 
 ## Galeria
 
+### Tela inicial da aplicação
+
+Captura do protótipo em execução.
+
+![Tela inicial do República](media/tela-inicial.png)
+
 ### Identidade visual
 
 Brasília em pixel art, criada para o cenário de fundo da tela inicial.
